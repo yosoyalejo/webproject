@@ -3,3 +3,27 @@
 body {
   background-color: pink;
 }
+
+/*SELECTORS
+--------------------------------------TAG Selctors---------------------------------------------
+
+h1{
+    background-color:  color;
+}
+img:hover {
+    background-color:  gold;
+}
+
+*--------------------------------------Class Selctors-------------------------------------------
+
+.classname{
+    background-color:  color;
+}
+
+/*--------------------------------------ID Selctors----------------------------------------------
+
+#IDname{
+    background-color:  color;
+}
+
+*/
