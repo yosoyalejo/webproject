@@ -1,7 +1,7 @@
 /** @format */
 
 body {
-  background-color: pink;
+  background-color: #cfd3ce;
 }
 
 /*SELECTORS
@@ -10,8 +10,8 @@ body {
 h1{
     background-color:  color;
 }
-img:hover {
-    background-color:  gold;
+img:hover{
+    background-color:  color;
 }
 
 *--------------------------------------Class Selctors-------------------------------------------
