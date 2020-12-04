@@ -1,10 +1,19 @@
 /** @format */
 
 body {
-  background-color: #cfd3ce;
+  background-color: #bce6eb;
+}
+h1 {
+  color: black;
+}
+h2 {
+  color: #fdcfdf;
+}
+h3 {
+  color: yellow;
 }
 
-/*SELECTORS
+/* SELECTORS
 --------------------------------------TAG Selctors---------------------------------------------
 
 h1{
@@ -26,4 +35,4 @@ img:hover{
     background-color:  color;
 }
 
-*/
+ */
