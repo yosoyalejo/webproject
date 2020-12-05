@@ -2,17 +2,63 @@
 
 body {
   background-color: #bce6eb;
+  font-family: helvetica;
 }
 h1 {
   color: black;
 }
 h2 {
-  color: #fdcfdf;
+  color: #ea2c62;
 }
 h3 {
-  color: yellow;
+  color: white;
+}
+img {
+  background-color: #fdcf;
+}
+div {
+  display: inline-block;
+  border: solid 5px;
+  border-color: white;
+  padding: 10px;
+}
+.assembly {
+  background-color: #fdcf;
+  position: absolute;
+  top: 10%;
+  left: 33%;
+}
+.annotation {
+  background-color: #fdcf;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+}
+.phylogenetic {
+  background-color: #fdcf;
+  position: absolute;
+  top: 35%;
+  left: 33%;
+}
+.diversity {
+  background-color: #fdcf;
+  position: absolute;
+  top: 35%;
+  left: 50%;
 }
 
+.transcriptomics {
+  background-color: #fdcf;
+  position: absolute;
+  top: 60%;
+  left: 33%;
+}
+.transcriptomics2 {
+  background-color: #fdcf;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
 /* SELECTORS
 --------------------------------------TAG Selctors---------------------------------------------
 
